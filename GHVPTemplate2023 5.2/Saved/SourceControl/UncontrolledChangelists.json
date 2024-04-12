@@ -1,0 +1,22 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/merca/Documents/GitHub/GHVPTTemplatee2023/GHVPTemplate2023 5.2/Content/StarterContent/Architecture/Floor_400x400.uasset",
+				"C:/Users/merca/Documents/GitHub/GHVPTTemplatee2023/GHVPTemplate2023 5.2/Content/VprodProject/Maps/GameheadsStudio.umap",
+				"C:/Users/merca/Documents/GitHub/GHVPTTemplatee2023/GHVPTemplate2023 5.2/Content/StarterContent/Materials/M_Brick_Clay_Beveled.uasset",
+				"C:/Program Files/Epic Games/UE_5.2/Engine/Content/BasicShapes/BasicShapeMaterial.uasset",
+				"C:/Users/merca/Documents/GitHub/GHVPTTemplatee2023/GHVPTemplate2023 5.2/Content/VprodProject/Maps/_GENERATED/ADMIN/Celing_91CF1DC6.uasset",
+				"C:/Users/merca/Documents/GitHub/GHVPTTemplatee2023/GHVPTemplate2023 5.2/Content/StarterContent/Materials/M_Basic_Floor.uasset",
+				"C:/Users/merca/Documents/GitHub/GHVPTTemplatee2023/GHVPTemplate2023 5.2/Content/StarterContent/Materials/M_Greenscreen.uasset",
+				"C:/Users/merca/Documents/GitHub/GHVPTTemplatee2023/GHVPTemplate2023 5.2/Content/VprodProject/Maps/_GENERATED/ADMIN/WhiteLongWall_5A3F226D.uasset",
+				"C:/Users/merca/Documents/GitHub/GHVPTTemplatee2023/GHVPTemplate2023 5.2/Content/VprodProject/Maps/theStudio.umap",
+				"C:/Users/ADMIN/Documents/GitHub/GHVPTTemplatee2023/GHVPTemplate2023/Content/StarterContent/Architecture/Floor_400x400.uasset",
+				"C:/Users/ADMIN/Documents/GitHub/GHVPTTemplatee2023/GHVPTemplate2023/Content/VprodProject/Maps/Main.umap"
+			]
+		}
+	]
+}
